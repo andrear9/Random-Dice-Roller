@@ -1,4 +1,4 @@
-# Dice Game
+# Random Dice Roller
 
 This code creates a simple dice roller in JavaScript. The program generates two random numbers between 1 and 6, representing the outcome of rolling two dice. Then, the game changes the images of the two dice to match the randomly generated numbers. Finally, the game compares the two randomly generated numbers and determines a winner.
 
